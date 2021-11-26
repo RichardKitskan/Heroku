@@ -1,1 +1,1 @@
-web: gunicorn HelloWorld:app --log-file -
+web: gunicorn HelloWorld:app
